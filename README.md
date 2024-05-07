@@ -9,6 +9,7 @@
 7. use git commit to add a message (`git commit -m "write the message here"`)
 8. use git push to push to git repo server (`git push`)
 
+```
 example
 cd devops
 edit text.txt
@@ -18,7 +19,7 @@ git status
 git commit -m "update to text,txt file"
 git status
 git push
-
+```
 Devops
 Thanks Toba
 
