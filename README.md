@@ -20,7 +20,23 @@ git commit -m "update to text,txt file"
 git status
 git push
 ```
-devops
-Thanks Toba
-aaaabbbb
+### To work on a new branch
+
+1. git branch to check the branch you working in (`git branch`)
+2. if on main branch (main will be green with * ) use git pull to sync your local with main (`git pull`)
+3. use git branch <branch name> to create a new branch (`git branch 80/my-branch-name`)
+4. use git checkout <branch name> to change to the new branch (`git branch 80/my-branch-name`)
+5. start working on the files, or add a new file to work on 
+6. once you are done working follow the git push procedure
+Joseph Akinola
+4:32 AM
+6. once you are done working follow the git push procedure (`git add , git status, git commit, git push`) NB, the push will be different using upstream from the suggestion
+
+### To work on Existing branches
+1. git branch to check the branch you working in (`git branch`)
+2. if not on main use `git checkout main` to checkout to main
+3. `git pull ` to pull latest 
+4. use git checkout <branch name> to change to the branch (`git branch 80/my-branch-name`)
+5. start working on the files, or add a new file to work on 
+6. once you are done working follow the git push procedure (`git add , git status, git commit, git push`)
 
