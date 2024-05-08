@@ -13,6 +13,7 @@ cd ..
 rm -R $dir
 ls
 echo "task successfull"
+echo "aws script added soon"
 
 
 
