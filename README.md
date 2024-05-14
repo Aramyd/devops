@@ -39,4 +39,4 @@ Joseph Akinola
 4. use git checkout <branch name> to change to the branch (`git checkout 80/my-branch-name`)
 5. start working on the files, or add a new file to work on 
 6. once you are done working follow the git push procedure (`git add , git status, git commit, git push`)
-
+ Refreshing my brain with git
