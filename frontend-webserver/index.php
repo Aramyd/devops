@@ -18,6 +18,7 @@
             <li><a href="#web">Web Technology</a></li>
             <li><a href="#program">C Programming</a></li>
             <li><a href="#course">Courses</a></li>
+            <li><a href="#course">Contact Us</a></li>
         </ul>
         <div class="rightnav">
             <input type="text" 
